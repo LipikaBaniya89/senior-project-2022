@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f7bbc521.css",
+    "main.js": "/static/js/main.f5692287.js",
+    "static/js/787.a2c02b2c.chunk.js": "/static/js/787.a2c02b2c.chunk.js",
+    "static/media/survey.jpg": "/static/media/survey.8d6ed927a8d307c2bbb9.jpg",
+    "static/media/profileCover.jpg": "/static/media/profileCover.90cdb09c233af767ecd7.jpg",
+    "static/media/robot1.png": "/static/media/robot1.0e4834e8704e89a2dd92.png",
+    "static/media/surveyClip.png": "/static/media/surveyClip.e27bac616870468711d5.png",
+    "static/media/flower.png": "/static/media/flower.ae6b8e78b2128a880194.png",
+    "static/media/about-image.jpg": "/static/media/about-image.13f60d426b16d4faf2ce.jpg",
+    "static/media/profile.png": "/static/media/profile.bf2aa57c354883cb76fd.png",
+    "static/media/fruit.png": "/static/media/fruit.45d2b50a945b63380f65.png",
+    "index.html": "/index.html",
+    "main.f7bbc521.css.map": "/static/css/main.f7bbc521.css.map",
+    "main.f5692287.js.map": "/static/js/main.f5692287.js.map",
+    "787.a2c02b2c.chunk.js.map": "/static/js/787.a2c02b2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7bbc521.css",
+    "static/js/main.f5692287.js"
+  ]
+}
