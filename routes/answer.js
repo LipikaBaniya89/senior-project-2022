@@ -43,9 +43,6 @@ router.get('/:date', async (req, res, next) => {
 router.post("/", async (req, res, next) => {
   const data = req.body;
   const dateObj = new Date().toLocaleString();
-//   const month = dateObj.getUTCMonth() + 1; //months from 1-12
-//   const day = dateObj.getUTCDate();
-//   const year = dateObj.getUTCFullYear();
   console.log(data)
   try {
     // TODO : Add validation for data and check that images are valid
