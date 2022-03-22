@@ -8,7 +8,7 @@ require('dotenv').config()
 require('./db/db.js')
 
 //Router
-var indexRouter = require('./routes/index');
+// var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var surveysRouter = require ('./routes/survey');
 var imagesRouter = require('./routes/image');
@@ -29,7 +29,7 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
-app.use('/', indexRouter);
+// app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.use('/surveys', surveysRouter);
 app.use('/images', imagesRouter);
@@ -37,6 +37,12 @@ app.use('/customers',customersRouter);
 app.use('/customers_point',customersPointRouter);
 app.use('/answers',answersRouter);
 
+app.use(express.static(path.join(__dirname, "public", "react-senior"))); 
+
+app.get("/*", function (req, res) { 
+  res.sendFile(path.join(__dirname, "public", "react-senior", "index.html")); 
+
+}); 
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
