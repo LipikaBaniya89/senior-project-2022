@@ -8,14 +8,16 @@ The first screen user will see is the Home Screen as shown in Figure 1. This scr
 
 ![image](https://github.com/user-attachments/assets/5acb779e-f7b8-4e6c-8130-915894dcf478)
 
-    Figure 1: Home Screen
+    
+   Figure 1: Home Screen
 
 # 2. Survey Categories Screen
 
 This is the 2nd screen of our application Where many different categories of surveys will be displayed for users to choose from.
 
 ![image](https://github.com/user-attachments/assets/a9188cf6-6503-4fa3-959c-56388efa720c)
-   Figure 2: Survey Category Screen
+   
+   Figure 2 : Survey Category Screen
 
 # 3.  Survey Question Screen
 Once the user chooses a category from the previous screen, they can answer some surveys. If the user has signed up, they will be able to see the survey question and the images as shown in Figure 3. 6 images will be displayed randomly from the database and users can select 0-6 images as they wish. Once they click the Submit button, their response will be sent to the API and another 6 images will be displayed for that category. This process will continue until the user clicks the Exit Survey button to end their survey. However, if the user did not sign up for the application, an alert message will be prompted asking the user to sign up as shown in Figure 4.
@@ -24,16 +26,16 @@ Once the user chooses a category from the previous screen, they can answer some 
 ![image](https://github.com/user-attachments/assets/b2f692d5-d1c8-41c3-845b-1bdb9b52f7dd)
 
 
- Figure 3.1: Survey Question Screen
+ Figure 3.1 : Survey Question Screen
 
 
 ![image](https://github.com/user-attachments/assets/c7d5798c-b6df-4c9f-adb1-090535d70be1)
                             
- Figure 3.2: Alert Message
+ Figure 3.2 : Alert Message
 
 # 4. Profile Screen
 The last screen of the application is the user profile screen which is for the user to sign out from the application.
 
 ![image](https://github.com/user-attachments/assets/07b8fa43-e280-48c7-8579-1bc1ba7513ae)
 
-Figure 4: Profile Screen
+Figure 4 : Profile Screen
