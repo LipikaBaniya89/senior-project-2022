@@ -6,8 +6,8 @@
 Many companies want to gather data from their customers or users but cannot do so because they might be small companies. Big companies like Facebook and Google have enormous amounts of data about all their users but face many privacy issues and concerns. Small companies don’t want enormous amounts of data but just enough to help with their research. That is the problem we’re going to solve. As a solution, we will build a platform for companies to host surveys on a website and gather user’s opinions and data. A web scraper will help gather images to display to the user while a search expansion will help analyze the user’s responses and scrape better images to display while also increasing the accuracy. For our senior project, our system will scrape images from the internet, take survey answers from users as well as perform search expansion for higher accuracy and performance.
 
 ## Tech stack
-- **Development:** Jan 2022 - April 2022\
-- **Language:** HTML/CSS/JavaScript\
+- **Development:** Jan 2022 - April 2022 \
+- **Language:** HTML/CSS/JavaScript \
 - **Platforms:** Visual Studio Code (Development) & Figma (Prototype)
 
 ## User Interface Design
