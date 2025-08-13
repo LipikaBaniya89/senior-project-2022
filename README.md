@@ -16,7 +16,7 @@ The UI is designed to support both dark and light theme modes. Its practical des
 **1. Home Screen**\
 The first screen the user will see is the Home Screen, as shown in Figure 1. This screen just lets the user know about the application and what it does.
 
-![LightMode](https://github.com/user-attachments/assets/2b4a2a61-cfcc-4feb-b413-6b3aedc4631a) \
+![LightMode](https://github.com/user-attachments/assets/2b4a2a61-cfcc-4feb-b413-6b3aedc4631a) 
 
 **Figure 1.1: Light Screen** 
 
