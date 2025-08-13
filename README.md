@@ -1,8 +1,6 @@
 # iLearn 
 
 ## What is the app 'iLearn' about? 
-
-**iLearn** is a project for Siam Commodities Group to improve image recognition through human-cognition-based deep learning.\
 Many companies want to gather data from their customers or users but cannot do so because they might be small companies. Big companies like Facebook and Google have enormous amounts of data about all their users, but face many privacy issues and concerns. Small companies don’t want enormous amounts of data, but just enough to help with their research. That is the problem we’re going to solve. As a solution, we will build a platform for companies to host surveys on a website and gather users’ opinions and data. A web scraper will help gather images to display to the use,r while a search expansion will help analyze the user’s responses and scrape better images to display while also increasing the accuracy. For our senior project, our system will scrape images from the internet, take survey answers from users as well as perform search expansion for higher accuracy and performance.
 
 ## Tech stack
