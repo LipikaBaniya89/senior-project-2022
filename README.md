@@ -18,7 +18,7 @@ The first screen user will see is the Home Screen as shown in Figure 1. This scr
 
 ![LightMode](https://github.com/user-attachments/assets/2b4a2a61-cfcc-4feb-b413-6b3aedc4631a) \
 
-**Figure 1.1: Light Screen** \
+**Figure 1.1: Light Screen** 
 
 ![DarkMode](https://github.com/user-attachments/assets/2ea9808a-37d4-4aaf-8299-de867e34451c)\
 **Figure 1.2: Home Screen**
@@ -43,6 +43,6 @@ Once the user chooses a category from the previous screen, they can answer some 
 **4. Profile Screen**
 The last screen of the application is the user profile screen which is for the user to sign out from the application.\
 
-![image](https://github.com/user-attachments/assets/07b8fa43-e280-48c7-8579-1bc1ba7513ae) \
+![image](https://github.com/user-attachments/assets/07b8fa43-e280-48c7-8579-1bc1ba7513ae) 
 
 **Figure 4: Profile Screen**
